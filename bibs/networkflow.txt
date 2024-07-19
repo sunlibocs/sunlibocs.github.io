@@ -1,0 +1,7 @@
+@inproceedings{li2022learning,
+  title={Learning of Global Objective for Network Flow in Multi-Object Tracking},
+  author={Li, Shuai and Kong, Yu and Rezatofighi, Hamid},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={8855--8865},
+  year={2022}
+}
